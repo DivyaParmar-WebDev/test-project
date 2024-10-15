@@ -1,0 +1,18 @@
+node_modules/
+secret_keys.js
+
+# Ignore Windows system files and folders
+AppData/
+Cookies/
+Documents/
+My Music/
+My Pictures/
+My Videos/
+Local Settings/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore IDE files and logs
+.vscode/
